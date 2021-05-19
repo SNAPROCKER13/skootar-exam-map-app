@@ -1,0 +1,69 @@
+.page {
+  width: 600px;
+  height: 500px;
+  margin: auto;
+}
+
+.name {
+  margin-right: 100px;
+}
+
+.a {
+  text-align: center;
+}
+
+.b {
+  text-align: center;
+}
+
+.c {
+  text-align: center;
+}
+
+h2 {
+  margin-left: 75px;
+  padding-top: 50px;
+}
+
+.extra {
+  display: flex;
+  flex-direction: row;
+}
+
+.open {
+  position: absolute;
+  top: 300px !important;
+  left: 875px !important;
+  height: 40px !important;
+}
+
+p {
+  display: flex;
+  flex-direction: row;
+}
+
+h3 {
+  margin-left: 75px;
+}
+
+.icona {
+  position: absolute !important;
+  top: 61px;
+  left: 720px;
+}
+
+.iconb {
+  position: absolute !important;
+  top: 183px;
+  left: 720px;
+}
+.iconc {
+  position: absolute !important;
+  top: 303px;
+  left: 720px;
+}
+
+.icon{
+  position: absolute;
+  top: 350px !important;;
+}

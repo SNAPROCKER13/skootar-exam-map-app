@@ -1,0 +1,48 @@
+.map {
+  display: flex;
+  flex-direction: column;
+}
+
+.autoInput {
+  display: flex;
+  flex-direction: column;
+}
+
+.addInput {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  background-color: black;
+  color: white;
+  margin-top: 10px;
+  margin-left: 295px;
+  position: absolute;
+  top: 150px;
+  left: 780px;
+  z-index: 5;
+}
+
+.mapShow {
+  top: 100px;
+}
+
+.nextButton {
+  display: flex;
+  flex-direction: row;
+}
+
+.next {
+  width: 150px;
+  height: 30px;
+  background-color: green;
+  color: white;
+}
+
+.distrance {
+  top: 550px;
+  margin-right: 50px;
+}
+
+.info {
+  background-color: white;
+}

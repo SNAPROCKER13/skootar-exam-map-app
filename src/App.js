@@ -1,25 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import "antd/dist/antd.css";
+import Price from "./pages/Price";
+import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import MapTest from "./pages/MapTest";
+import {useState} from "react"
 
 function App() {
+  const [markers, setMarkers] = useState([]);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <MapTest/>  
   );
 }
-
 export default App;
