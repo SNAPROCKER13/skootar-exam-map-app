@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/skootar-exam-map-app/static/css/main.194b0968.chunk.css",
-    "main.js": "/skootar-exam-map-app/static/js/main.22d47f86.chunk.js",
-    "main.js.map": "/skootar-exam-map-app/static/js/main.22d47f86.chunk.js.map",
+    "main.js": "/skootar-exam-map-app/static/js/main.5239eb47.chunk.js",
+    "main.js.map": "/skootar-exam-map-app/static/js/main.5239eb47.chunk.js.map",
     "runtime-main.js": "/skootar-exam-map-app/static/js/runtime-main.61d1fa43.js",
     "runtime-main.js.map": "/skootar-exam-map-app/static/js/runtime-main.61d1fa43.js.map",
     "static/css/2.00bb4513.chunk.css": "/skootar-exam-map-app/static/css/2.00bb4513.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.00bb4513.chunk.css",
     "static/js/2.4f57032c.chunk.js",
     "static/css/main.194b0968.chunk.css",
-    "static/js/main.22d47f86.chunk.js"
+    "static/js/main.5239eb47.chunk.js"
   ]
 }
